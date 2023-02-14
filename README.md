@@ -36,4 +36,5 @@ and need to group these points into 3 clusters, so we: </br>
        AssignedClusters[i] = np.argmin(Distances)
 </pre>
 
-![re2](https://user-images.githubusercontent.com/91970695/218724575-82dc8b71-463f-4fc6-866a-2cbdedd21160.gif)
+![ezgif-3-0fa2173e4e](https://user-images.githubusercontent.com/91970695/218728256-09a9e18c-c8e7-4a66-907c-a43537bc1d35.gif)
+
