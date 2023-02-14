@@ -15,7 +15,7 @@ and need to group these points into 3 clusters, so we: </br></br>
     { </br>
     * Assign each data point to cluster based on the closest centroid.</br>
     * Compute means for each cluster and update centroids.</br>
-     }</br>
+    }</br>
 
 
 
