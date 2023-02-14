@@ -52,4 +52,5 @@ res_image = image.reshape(m * n , 3)
 
 ## update centriod :
 
-![dfdfdfdfdfdf](https://user-images.githubusercontent.com/91970695/218781201-1d525da5-f7f5-47e5-97f5-1994fac7b406.gif)
+![hole size](https://user-images.githubusercontent.com/91970695/218781489-476126c6-b568-489d-b0c6-b9165e4c4e17.gif)
+
