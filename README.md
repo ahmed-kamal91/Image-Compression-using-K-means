@@ -34,6 +34,6 @@ and need to group these points into 3 clusters, so we: </br>
            distance = np.linalg.norm(res_image[i] - centroids[j])
            Distances.append(distance)
        AssignedClusters[i] = np.argmin(Distances)
-<pre>
+</pre>
 
 ![re2](https://user-images.githubusercontent.com/91970695/218724575-82dc8b71-463f-4fc6-866a-2cbdedd21160.gif)
