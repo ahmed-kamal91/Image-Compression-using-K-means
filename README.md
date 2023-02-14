@@ -25,6 +25,17 @@ and need to group these points into 3 clusters, so we: </br>
 
 <img width="600" alt="figure 2" src="https://user-images.githubusercontent.com/91970695/218606738-aeba0b7b-8aeb-4637-8af1-1a36dd20bd18.png">
 
+
+## convert image to suitable input:
+<pre>
+m, n, _ = image.shape
+res_image = image / 255
+res_image = image.reshape(m * n , 3)
+</pre>
+
+![intro](https://user-images.githubusercontent.com/91970695/218751414-6e10882b-8bfd-4e2f-890c-905eb5873c20.png)
+
+
 ## Assign data to clusters using the closest distance between cetroids:
 
 <pre>
