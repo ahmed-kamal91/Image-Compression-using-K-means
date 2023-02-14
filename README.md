@@ -10,7 +10,6 @@ assume:
 we have data has 2 features x1, x2 , represented in x and y axis. </br>
 and need to group these points into 3 clusters, so we: </br></br>
 
-![Untitled]()
 
 <img width="600" alt="figure" src="https://user-images.githubusercontent.com/91970695/218611026-2fd1f16e-b117-427a-a578-01d815c90f33.png">
 
