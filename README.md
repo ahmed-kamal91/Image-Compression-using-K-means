@@ -1,4 +1,4 @@
-## Goal of Notebok:
+## Goal of Notebook:
  image compression to 16 colors using k-means clustering
 
 ![Untitled](https://user-images.githubusercontent.com/91970695/218614558-57cef9d3-5439-4667-b6ee-01ceb8e82087.png)
