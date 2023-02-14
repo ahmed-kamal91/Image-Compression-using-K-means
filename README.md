@@ -26,6 +26,6 @@ and need to group these points into 3 clusters, so we: </br>
 
 ## Assign data to clusters using the closest distance between cetroids:
 
-![ezgif-3-8e2cee410b](https://user-images.githubusercontent.com/91970695/218722963-1771d513-f260-402f-b66f-24fec2c7a84e.gif)
+![resized](https://user-images.githubusercontent.com/91970695/218724071-e6b4d20a-b3d2-43b0-ad2b-3223c6debad7.gif)
 
 
