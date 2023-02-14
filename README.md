@@ -49,3 +49,7 @@ res_image = image.reshape(m * n , 3)
 </pre>
 
 ![dsddsd](https://user-images.githubusercontent.com/91970695/218744923-b9371dbf-6366-4ffa-937b-105dda0ce9b3.gif)
+
+## update centriod :
+
+![dfdfdfdfdfdf](https://user-images.githubusercontent.com/91970695/218781201-1d525da5-f7f5-47e5-97f5-1994fac7b406.gif)
