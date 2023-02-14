@@ -8,7 +8,7 @@ we have data has 2 features x1, x2 , represented in x and y axis. </br>
 and need to group these points into 3 clusters, so we: </br></br>
 
 
-<img width="500" alt="" src="https://user-images.githubusercontent.com/91970695/218611026-2fd1f16e-b117-427a-a578-01d815c90f33.png">
+<img width="400" alt="" src="https://user-images.githubusercontent.com/91970695/218611026-2fd1f16e-b117-427a-a578-01d815c90f33.png">
 
 <img width="600" alt="" src="https://user-images.githubusercontent.com/91970695/218610665-c2092715-93a6-49f1-90e4-8d861887d4e9.png">
 
