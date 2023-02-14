@@ -2,7 +2,7 @@
  image compression to 16 colors using k-means clustering </br>
  https://github.com/ahmed-kamal91/Image-Compression-using-K-means/blob/main/K-means%20Clustering%20Application%20Notebook.ipynb
 
-<img width="350" alt="" src="https://user-images.githubusercontent.com/91970695/218614558-57cef9d3-5439-4667-b6ee-01ceb8e82087.png">
+<img width="450" alt="" src="https://user-images.githubusercontent.com/91970695/218614558-57cef9d3-5439-4667-b6ee-01ceb8e82087.png">
 
 ## What K-mens clustering  ?:
 Simply,algorithm group unlabeled data into clusters for some business purpose ? </br>
