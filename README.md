@@ -51,6 +51,11 @@ res_image = image.reshape(m * n , 3)
 ![dsddsd](https://user-images.githubusercontent.com/91970695/218744923-b9371dbf-6366-4ffa-937b-105dda0ce9b3.gif)
 
 ## update centriod :
-
+<pre>
+ centroids = np.zeros((K, n))
+ for k in range(K):
+     data_cluster = res_image[AssignedClusters == k]
+     centroids[k] = np.mean(data_cluster, axis = 0)
+</pre>
 ![hole size](https://user-images.githubusercontent.com/91970695/218781489-476126c6-b568-489d-b0c6-b9165e4c4e17.gif)
 
