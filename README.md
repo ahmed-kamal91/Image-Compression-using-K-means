@@ -12,7 +12,7 @@ and need to group these points into 3 clusters, so we: </br></br>
 
 ![Untitled](https://user-images.githubusercontent.com/91970695/218610665-c2092715-93a6-49f1-90e4-8d861887d4e9.jpeg)
 
-<img width="600" alt="figure 1" src="https://user-images.githubusercontent.com/91970695/218610665-c2092715-93a6-49f1-90e4-8d861887d4e9.jpeg">
+<img width="600" alt="figure 1" src="https://user-images.githubusercontent.com/91970695/218610665-c2092715-93a6-49f1-90e4-8d861887d4e9.png">
 
 * randomly taking 3 points values for initialize centroid for each cluster we want to make.</br>
 * repeat </br>
