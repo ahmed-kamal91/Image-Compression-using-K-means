@@ -26,15 +26,14 @@ and need to group these points into 3 clusters, so we: </br>
 
 ## Assign data to clusters using the closest distance between cetroids:
 
-'''
-    AssignedClusters = np.zeros(res_image.shape[0], dtype=int)  
-    for i in range(res_image.shape[0]):
-        Distances = []
-        for j in range(K):
-            distance = np.linalg.norm(res_image[i] - centroids[j])
-            Distances.append(distance)
-        AssignedClusters[i] = np.argmin(Distances)
-
-'''
+<pre>
+   AssignedClusters = np.zeros(res_image.shape[0], dtype=int)  
+   for i in range(res_image.shape[0]):
+       Distances = []
+       for j in range(K):
+           distance = np.linalg.norm(res_image[i] - centroids[j])
+           Distances.append(distance)
+       AssignedClusters[i] = np.argmin(Distances)
+<pre>
 
 ![re2](https://user-images.githubusercontent.com/91970695/218724575-82dc8b71-463f-4fc6-866a-2cbdedd21160.gif)
